@@ -16,7 +16,7 @@
 
 # 📱 My Apps:
 
-| Movies | News | RickAndMorty |
+| [My Awesome App]([https://link-to-your-app.com](https://github.com/ElmarShkrv/ChioreMovie)) | News | RickAndMorty |
 | ------ | ---- | ------------ |
 |<img src="https://user-images.githubusercontent.com/105628110/194260019-31f353d4-56cb-4e47-a195-bf4fc4974726.png" width="250" height="500"/>|<img src="https://user-images.githubusercontent.com/105628110/231800431-5c01b2b8-25b5-449d-9f7d-b61ff3676877.png" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/f728a372-9d70-4c73-b748-91a240082b9e" width="250" height="500"/>
 
