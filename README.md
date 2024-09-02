@@ -14,4 +14,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ElmarShkrv&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📱 My Apps:
+
+| Movies | News | RickAndMorty | Valorant | Notes |
+| ------ | ---- | ------------ | -------- | ----- |
+|<img src="https://user-images.githubusercontent.com/105628110/194260019-31f353d4-56cb-4e47-a195-bf4fc4974726.png" width="250" height="500"/>|<img src="https://user-images.githubusercontent.com/105628110/231800431-5c01b2b8-25b5-449d-9f7d-b61ff3676877.png" width="250" height="500"/>|<img src="https://github.com/user-attachments/assets/f728a372-9d70-4c73-b748-91a240082b9e" width="250" height="500"/>|<img src="https://user-images.githubusercontent.com/105628110/191681375-a1cee54e-f405-4dee-b04f-c76f61d31461.jpg" width="250" height="500"/>|<img src="https://user-images.githubusercontent.com/105628110/200116549-b1870b6d-6576-4712-8494-752c925599e4.png" width="250" height="500"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
