@@ -11,9 +11,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmarShkrv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ElmarShkrv&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 📱 My Apps:
 
 | [Movies](https://github.com/ElmarShkrv/ChioreMovie) | [News](https://github.com/ElmarShkrv/ChioreNews) | [RickAndMorty](https://github.com/ElmarShkrv/ChioreRickAndMorty) |
@@ -23,5 +20,8 @@
 | [Valorant](https://github.com/ElmarShkrv/ValorantApp) | [Notes](https://github.com/ElmarShkrv/NoteApp) |
 | -------- | ----- |
 |<img src="https://user-images.githubusercontent.com/105628110/191681375-a1cee54e-f405-4dee-b04f-c76f61d31461.jpg" width="250" height="500"/>|<img src="https://user-images.githubusercontent.com/105628110/200116549-b1870b6d-6576-4712-8494-752c925599e4.png" width="250" height="500"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=ElmarShkrv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
